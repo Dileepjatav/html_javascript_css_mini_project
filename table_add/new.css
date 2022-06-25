@@ -1,0 +1,9 @@
+#box{
+    width: 400px;
+    height: 500px;
+    text-align: center;
+}
+
+#clock{
+    display: flex;
+}

@@ -1,0 +1,17 @@
+{
+    "name":"dileep",
+    "age":25,
+    "place":"lahar",
+    "arr":"[10,20,30,40,50,60]",
+    "obj":{
+        "name":"vipindr",
+        "age":21,
+        "place":"Chiroli",
+        "bpplean":true
+
+    }
+}
+
+
+
+

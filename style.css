@@ -1,0 +1,29 @@
+#main-header{
+    height: 50px;
+    width: 100%;
+    background-color: rgb(205, 228, 228);
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+@media screen and (max-width: 700px) {
+    #main-header{
+      background-color: rgb(183, 183, 241);
+      height: 300px;
+      width: 100%;
+      display: grid;
+      justify-content: flex-start;
+
+
+      
+    }
+    .head{
+        font-size: small;
+        border: 1px black ;
+        
+        padding-left: 30px;
+
+
+    }
+
+  }
